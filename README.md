@@ -1,10 +1,36 @@
 <h1>Hi there 👋 - I'm Brett Morriss</h1>
+<h3>Welcome to my GitHub home</h3>
 
+I love building, and sharing how to create, great things :star2:
+I have decades of experience working across the OSI model layers :cake:
+
+<!--
 I've been playing across the stack/layers for a few decades. I'm currently focused mostly on AI, Cloud, Python, Node, Express, React, Next.js, Typescript.
-
+-->
 <p>
-<a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">:link: LinkedIn</a>
+:link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 </p>
+
+- 🔭 Current focus: AI LLMs, Next.js v16, and React v19.2.x
+
+## 🧰 Skills & Tools
+
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node, Express, SQL
+- **AI:** LLMs, OpenAI APIs, Agents, MCP, Cursor, CoPilot
+- **DevOps:** Docker, CI/CD, AWS, Kubernetes, Terraform
+- **Testing:** React Testing Library, Jest, Vitest, Playwright, Cypress
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Design:** Figma, UX Principles, Storybook
+
+## 🧰 Hobbies and Activities
+
+- surfing :ocean: :surfer:
+- music :notes: :guitar:
+- photography :camera:
+- hiking, backpacking :sunrise_over_mountains:
+- home renovation :house_with_garden:
+- volunterring with Meals on Wheels :rainbow:
 
 <!--
 **ibbrett/ibbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
