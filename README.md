@@ -1,9 +1,9 @@
-<h1>Hi there 👋 - I'm Brett Morriss</h1>
+<h1>Hi there 👋 - I'm Brett Morriss :star2:</h1>
 <h3>Welcome to my GitHub home</h3>
 
-I love building, and sharing how to create, great things :star2:
-
-I have decades of experience working across the OSI model layers :cake:
+- :hammer: I love building, and sharing how to create, great things
+- :cake: I have decades of experience working across the OSI model layers
+- :telescope: I'm Currently focused on AI LLMs, Next.js v16, and React v19.2.x
 
 <!--
 I've been playing across the stack/layers for a few decades. I'm currently focused mostly on AI, Cloud, Python, Node, Express, React, Next.js, Typescript.
@@ -11,8 +11,6 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 <p>
 :link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 </p>
-
-- 🔭 Current focus: AI LLMs, Next.js v16, and React v19.2.x
 
 ## 🧰 Skills & Tools
 
