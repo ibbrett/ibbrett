@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1>Hi there 👋 - I'm Brett Morriss</h1>
 
-[:link:](https://www.linkedin.com/in/brett-morriss-full-stack-engineer/) test
+I've been playing across the stack/layers for a few decades. I'm currently focused mostly on AI, Cloud, Python, Node, Express, React, Next.js, Typescript.
+
+<p>
+<a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">:link: LinkedIn</a>
+</p>
 
 <!--
 **ibbrett/ibbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
