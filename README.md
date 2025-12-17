@@ -26,11 +26,12 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 
 ## 🧰 Publicly available projects
 
-<kbd><a href="https://www.webmdrx.com"><img src="./assets/webmdrx.png" alt="WebMD Rx site" width="150" /></a></kbd><br>Rearchitected and enhanced this vital resource for WebMD from Angular to Vue, addding enhancements like SEO and auto regeneration of the sitemap
+| :turtle:                                                                                                                                   | :notebook:                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <kbd><a href="https://www.webmdrx.com"><img src="./assets/webmdrx.png" alt="WebMD Rx site" width="150" /></a></kbd>                        | Rearchitected and enhanced this vital resource for WebMD from Angular to Vue, addding enhancements like SEO and auto regeneration of the sitemap |
+| <kbd><a href="https://www.cobank.com"><img src="./assets/cobank.png" alt="Cobank banking portal" width="150" /><a></kbd>                   | Made major contributions towards the creation and launching of CoBank's banking portal, as a Scaled Agile Framework (SAFe) team leader           |
+| <kbd><a href="https://foodrevolution.org"><img src="./assets/FRN-forum-desktop.png" alt="Food Revolution Network" width="150" /></a></kbd> | Created scalable, themed React NativeBase community forum, launched in under 8 months, enhancing                                                 |
 
-<kbd><a href="https://www.cobank.com"><img src="./assets/cobank.png" alt="Cobank banking portal" width="150" /><a></kbd><br>Made major contributions towards the creation and launching of CoBank's banking portal, as a Scaled Agile Framework (SAFe) team leader
-
-<kbd><a href="https://foodrevolution.org"><img src="./assets/FRN-forum-desktop.png" alt="Food Revolution Network" width="150" /></a></kbd><br>Created scalable, themed React NativeBase community forum, launched in under 8 months, enhancing
 community engagement with feature-rich tools
 
 ## :runner: Hobbies and Activities
