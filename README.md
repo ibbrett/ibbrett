@@ -2,6 +2,7 @@
 <h3>Welcome to my GitHub home</h3>
 
 I love building, and sharing how to create, great things :star2:
+
 I have decades of experience working across the OSI model layers :cake:
 
 <!--
