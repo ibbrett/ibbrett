@@ -22,7 +22,7 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Design:** Figma, UX Principles, Storybook
 
-<img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="150" />
+<span style="border:1px solid black;border-radius:8px"><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="150" /><span>
 
 ## :runner: Hobbies and Activities
 
