@@ -22,6 +22,8 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Design:** Figma, UX Principles, Storybook
 
+![Microsoft Certified Professional](./assets/mcp-card.png)
+
 ## :runner: Hobbies and Activities
 
 - surfing :ocean: :surfer:
