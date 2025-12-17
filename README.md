@@ -22,14 +22,14 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Design:** Figma, UX Principles, Storybook
 
-## 🧰 Hobbies and Activities
+## :runner: Hobbies and Activities
 
 - surfing :ocean: :surfer:
 - music :notes: :guitar:
 - photography :camera:
 - hiking, backpacking :sunrise_over_mountains:
 - home renovation :house_with_garden:
-- volunterring with Meals on Wheels :rainbow:
+- volunteering, Meals on Wheels :rainbow:
 
 <!--
 **ibbrett/ibbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
