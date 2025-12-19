@@ -13,7 +13,7 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 :link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 </p>
 
-## :briefcase: :wrench: :nut_and_bolt: Skills & Tools
+## :nut_and_bolt: Skills & Tools
 
 - **Frontend:** React, Next.js, TailwindCSS
 - **Backend:** Node, Express, SQL
@@ -27,7 +27,7 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 
 ## :construction_worker: projects
 
-| :fire:     | :turtle:                                                                                                                                   | :notebook:                                                                                                                                       |
+| :fire:     | :mega:                                                                                                                                     | :clipboard:                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | :hospital: | <kbd><a href="https://www.webmdrx.com"><img src="./assets/webmdrx.png" alt="WebMD Rx site" width="150" /></a></kbd>                        | Rearchitected and enhanced this vital resource for WebMD from Angular to Vue, addding enhancements like SEO and auto regeneration of the sitemap |
 | :bank:     | <kbd><a href="https://www.cobank.com"><img src="./assets/cobank.png" alt="Cobank banking portal" width="150" /><a></kbd>                   | Made major contributions towards the creation and launching of CoBank's banking portal, as a Scaled Agile Framework (SAFe) team leader           |
@@ -35,21 +35,19 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 
 ## :runner: Hobbies and Activities
 
-- surfing :ocean: :surfer:
-- music :notes: :guitar:
+- ocean, surfing :ocean: :turtle: :tropical_fish: :octopus: :surfer:
+- music :musical_score: :guitar: :microphone:
 - photography :camera:
 - hiking, backpacking :sunrise_over_mountains:
-- running, biking: :runner: :bike:
-- home renovation :house_with_garden:
+- running, biking, soccer/futbol: :runner: :bike: :soccer:
+- home renovation :house_with_garden: :triangular_ruler:
+- finance, markets :chart_with_upwards_trend:
+- games, puzzles: :video_game: :game_die:
 - volunteering:
   - Meals on Wheels: delivering nutritious meals to homebound seniors :stew: :bread:
   - Mālama Māla: cleanup and conservation :palm_tree:
 
 <!--
-**ibbrett/ibbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -58,4 +56,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:briefcase:
+:wrench:
+:eyes:
 -->
