@@ -1,8 +1,9 @@
 <h1>Hi there 👋 - I'm Brett Morriss :star2:</h1>
-<h3>Welcome to my GitHub home</h3>
+
+## :smile: Welcome to my GitHub home
 
 - :hammer: I love building, and sharing how to create, great things
-- :cake: I have decades of experience working across the OSI model layers
+- :muscle: I have decades of experience working across evolving stacks, going back to the OSI model layers
 - :telescope: I'm Currently focused on AI LLMs, Next.js v16, and React v19.2.x
 
 <!--
@@ -12,7 +13,7 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 :link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 </p>
 
-## 🧰 Skills & Tools
+## :briefcase: :wrench: :nut_and_bolt: Skills & Tools
 
 - **Frontend:** React, Next.js, TailwindCSS
 - **Backend:** Node, Express, SQL
@@ -26,7 +27,7 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 
 ## :construction_worker: projects
 
-| :goat:     | :turtle:                                                                                                                                   | :notebook:                                                                                                                                       |
+| :fire:     | :turtle:                                                                                                                                   | :notebook:                                                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | :hospital: | <kbd><a href="https://www.webmdrx.com"><img src="./assets/webmdrx.png" alt="WebMD Rx site" width="150" /></a></kbd>                        | Rearchitected and enhanced this vital resource for WebMD from Angular to Vue, addding enhancements like SEO and auto regeneration of the sitemap |
 | :bank:     | <kbd><a href="https://www.cobank.com"><img src="./assets/cobank.png" alt="Cobank banking portal" width="150" /><a></kbd>                   | Made major contributions towards the creation and launching of CoBank's banking portal, as a Scaled Agile Framework (SAFe) team leader           |
@@ -38,9 +39,10 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 - music :notes: :guitar:
 - photography :camera:
 - hiking, backpacking :sunrise_over_mountains:
+- running, biking: :runner: :bike:
 - home renovation :house_with_garden:
 - volunteering:
-  - Meals on Wheels: Volunteering for Meals on Wheels involves delivering nutritious meals and providing friendly visits to homebound seniors :stew: :bread:
+  - Meals on Wheels: delivering nutritious meals to homebound seniors :stew: :bread:
   - Mālama Māla: cleanup and conservation :palm_tree:
 
 <!--
