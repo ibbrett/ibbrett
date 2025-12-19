@@ -39,7 +39,9 @@ I've been playing across the stack/layers for a few decades. I'm currently focus
 - photography :camera:
 - hiking, backpacking :sunrise_over_mountains:
 - home renovation :house_with_garden:
-- volunteering, Meals on Wheels :rainbow:
+- volunteering:
+  - Meals on Wheels: Volunteering for Meals on Wheels involves delivering nutritious meals and providing friendly visits to homebound seniors :stew: :bread:
+  - Mālama Māla: cleanup and conservation :palm_tree:
 
 <!--
 **ibbrett/ibbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
