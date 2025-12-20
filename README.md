@@ -41,14 +41,22 @@
 
 ## Certifications and Things
 
+### Microsoft Certified Professional (MSP)
+
 <img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="300" />
 2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus. I became the owner of the New Hire Advisor SharePoint Team Site, helping the Sharepoint team. While there I developed a way to build FrontPage sites dynamically saving hours of dev time, and since I was already writing core C# code for Sharepoint I decided to get this certification.
+
+### Skydiving
 
 <img src="./assets/skydive.jpg" alt="Skydiving" width="300" />
 I occasionally like to jump out of a perfectly good airplane
 
+### Computer Science Learning
+
 <img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" />
 Some recognition while learning about operating systems and programming languages
+
+### Premiere Hollywood Rock and Roll training institute
 
 <img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" />
 Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: _Vegetable Soup_ while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
