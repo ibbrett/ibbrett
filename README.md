@@ -17,7 +17,13 @@
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Design:** Figma, UX Principles, Storybook
 
-<kbd><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="150" /><kbd>
+## Certifications
+
+| :scroll:                                                                                                    | :mega:                                 |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| <kbd><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="150" /><kbd>            | Microsoft Certified Professional (MCP) |
+| Developing and Implementing Web Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET |
+| <kbd>Vice President's Award for academic excellence<kbd>                                                    | North Seattle College                  |
 
 ## Projects
 
