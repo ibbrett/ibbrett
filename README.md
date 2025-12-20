@@ -56,12 +56,12 @@ I occasionally like to jump out of a perfectly good airplane
 ### Computer Science Learning
 
 <img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" />
-Some recognition while learning about operating systems and programming languages
+Academic recognition while learning about operating systems and programming languages
 
 ### Premiere Hollywood Rock and Roll training institute
 
 <img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" />
-Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: _Vegetable Soup_ while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
+Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: *Vegetable Soup* while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
 
 <!--
 - 🔭 I’m currently working on ...
