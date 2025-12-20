@@ -45,7 +45,7 @@
 
 ### Microsoft Certified Professional (MSP)
 
-2005 was an _incredible_ year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
+2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
 I became the owner of the New Hire Advisor SharePoint Team Site, as well as helping the Sharepoint team.  
 :muscle: While there I developed a way to build FrontPage sites dynamically saving hours of dev time, and since I was already writing core C# code for Sharepoint I decided to get this certification.
 
@@ -65,21 +65,4 @@ Academic recognition while learning about operating systems and programming lang
 
 ### Premiere Rock and Roll training/proving grounds
 
-Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: _Vegetable Soup_ while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-:briefcase:
-:wrench:
-:eyes:
-:star2:
-:smile:
-:clipboard:
--->
+Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: "Vegetable Soup" while at GIT, "Tribal Soul" and "Thick" while playing the Seattle scene
