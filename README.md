@@ -53,18 +53,21 @@ I became the owner of the New Hire Advisor SharePoint Team Site, as well as help
 
 ### Skydiving
 
-<img src="./assets/skydive.jpg" alt="Skydiving" width="300" />
-I occasionally like to jump out of a perfectly good airplane
+<kbd><img src="./assets/skydive.jpg" alt="Skydiving" width="300" /></kbd>
+
+<p>I occasionally like to jump out of a perfectly good airplane</p>
 
 ### Computer Science Learning
 
-<img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" />
-Academic recognition while learning about operating systems and programming languages
+<kbd><img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" /></kbd>
+
+<p>Academic recognition while learning about operating systems and programming languages</p>
 
 ### Premiere Hollywood Rock and Roll training institute
 
-<img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" />
-Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: *Vegetable Soup* while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
+<kbd><img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" /></kbd>
+
+<p>Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: *Vegetable Soup* while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene</p>
 
 <!--
 - 🔭 I’m currently working on ...
