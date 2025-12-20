@@ -45,11 +45,10 @@
 
 <kbd><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="300" /></kbd>
 
-<p>
+<h3>Microsoft Certified Professional (MSP)</h3>
 2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
 I became the owner of the New Hire Advisor SharePoint Team Site, as well as helping the Sharepoint team.  
 :muscle: While there I developed a way to build FrontPage sites dynamically saving hours of dev time, and since I was already writing core C# code for Sharepoint I decided to get this certification.
-</p>
 
 ### Skydiving
 
