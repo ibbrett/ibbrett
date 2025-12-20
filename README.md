@@ -41,33 +41,31 @@
 
 ## Certifications and Things
 
-### Microsoft Certified Professional (MSP)
-
 <kbd><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="300" /></kbd>
 
-#### Microsoft Certified Professional (MSP)
+### Microsoft Certified Professional (MSP)
 
 2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
 I became the owner of the New Hire Advisor SharePoint Team Site, as well as helping the Sharepoint team.  
 :muscle: While there I developed a way to build FrontPage sites dynamically saving hours of dev time, and since I was already writing core C# code for Sharepoint I decided to get this certification.
 
-### Skydiving
-
 <kbd><img src="./assets/skydive.jpg" alt="Skydiving" width="300" /></kbd>
 
-<p>I occasionally like to jump out of a perfectly good airplane</p>
+### Skydiving
 
-### Computer Science Learning
+I occasionally like to jump out of a perfectly good airplane
 
 <kbd><img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" /></kbd>
 
-<p>Academic recognition while learning about operating systems and programming languages</p>
+### Computer Science Learning
 
-### Premiere Hollywood Rock and Roll training institute
+Academic recognition while learning about operating systems and programming languages
 
 <kbd><img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" /></kbd>
 
-<p>Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: *Vegetable Soup* while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene</p>
+### Premiere Rock and Roll training/proving grounds
+
+Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: _Vegetable Soup_ while at GIT, _Tribal Soul_ and _Thick_ while playing the Seattle scene
 
 <!--
 - 🔭 I’m currently working on ...
