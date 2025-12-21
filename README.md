@@ -32,7 +32,7 @@
 - photography :camera:
 - hiking, backpacking :sunrise_over_mountains:
 - running, biking, soccer/futbol: :runner: :bike: :soccer:
-- home renovation :house_with_garden: :triangular_ruler: :nut_and_bolt:
+- home renovation :derelict_house: :arrow_right: :house_with_garden:
 - finance, markets :chart_with_upwards_trend:
 - games, puzzles: :video_game: :game_die:
 - volunteering:
@@ -55,7 +55,7 @@ I became the owner of the New Hire Advisor SharePoint Team Site, as well as help
 
 ### Skydiving
 
-:small_airplane: I occasionally like to jump out of a perfectly good airplane
+I occasionally like to jump out of a perfectly good airplane :small_airplane: :parachute:
 
 ---
 
