@@ -39,7 +39,7 @@
   - Meals on Wheels: delivering nutritious meals to homebound seniors :stew: :bread:
   - Mālama Māla: cleanup and conservation :palm_tree:
 
-## Certifications and Things
+## Certifications et al.
 
 <kbd><img src="./assets/mcp-card.png" alt="Microsoft Certified Professional" width="300" /></kbd>
 
@@ -47,22 +47,22 @@
 
 2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
 I became the owner of the New Hire Advisor SharePoint Team Site, as well as helping the Sharepoint team.  
-:muscle: While there I developed a way to build FrontPage sites dynamically saving hours of dev time, and since I was already writing core C# code for Sharepoint I decided to get this certification.
+:muscle: While there, I developed a way to build FrontPage sites dynamically saving hours of dev time. And, since I was already writing core C# code for Sharepoint I decided to get MCP certified.
 
 <kbd><img src="./assets/skydive.jpg" alt="Skydiving" width="300" /></kbd>
 
 ### Skydiving
 
-I occasionally like to jump out of a perfectly good airplane
+:palm_tree: I occasionally like to jump out of a perfectly good airplane
 
 <kbd><img src="./assets/NSCC-VicePresidentsAward.jpg" alt="Vice Presidents Award from North Seattle Community College" width="300" /></kbd>
 
 ### Computer Science Learning
 
-Academic recognition while learning about operating systems and programming languages
+:palm_tree: Academic recognition while learning about operating systems and programming languages
 
 <kbd><img src="./assets/MusiciansInstitute.jpg" alt="Musicians Institute, Guitar Institute of Technology" width="300" /></kbd>
 
 ### Premiere Rock and Roll training/proving grounds
 
-Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: "Vegetable Soup" while at GIT, "Tribal Soul" and "Thick" while playing the Seattle scene
+:palm_tree: Woodshedding days of my artistic craft: lead and rythm guitar. Ask me about my bands: "Vegetable Soup" while at GIT, "Tribal Soul" and "Thick" while playing the Seattle scene
