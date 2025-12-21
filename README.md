@@ -1,4 +1,4 @@
-<h1>Hi there 👋 - I'm Brett Morriss </h1>
+<h1>Hi there :call_me_hand: - I'm Brett Morriss :wave:</h1>
 :link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 
 ## Welcome to my GitHub home
@@ -55,7 +55,7 @@ I became the owner of the New Hire Advisor SharePoint Team Site, as well as help
 
 ### Skydiving
 
-I occasionally like to jump out of a perfectly good airplane
+:small_airplane: I occasionally like to jump out of a perfectly good airplane
 
 ---
 
@@ -63,7 +63,7 @@ I occasionally like to jump out of a perfectly good airplane
 
 ### Computer Science Learning
 
-Academic award while learning about operating systems and programming languages. I attended both North Seattle College and
+:brain: Academic award while learning about operating systems and programming languages. I attended both North Seattle College and Bellevue College
 
 ---
 
@@ -71,5 +71,5 @@ Academic award while learning about operating systems and programming languages.
 
 ### Premiere Rock and Roll training/proving grounds
 
-Woodshedding days for lead and rythm guitar.
+:guitar: Woodshedding days for lead and rythm guitar.
 Ask me about my bands: _Vegetable Soup_ while at GIT in Hollywood, _Tribal Soul_ and _Thick_ while playing the Seattle scene
