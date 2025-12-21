@@ -47,7 +47,7 @@
 
 2005 was an incredible year, one of my favorite gigs! As a contractor I became the primary engineer on the Microsoft Sales, Marketing, Services Group at the Redmond main campus.
 I became the owner of the New Hire Advisor SharePoint Team Site, as well as helping the Sharepoint team.  
-:muscle: While there, I developed a way to build FrontPage sites dynamically saving hours of dev time. And, since I was already writing core C# code for Sharepoint I decided to get MCP certified.
+:muscle: _While there_, I developed a way to build FrontPage sites dynamically saving hours of dev time. And, since I was already writing core C# code for Sharepoint I decided to get MCP certified.
 
 <kbd><img src="./assets/skydive.jpg" alt="Skydiving" width="300" /></kbd>
 
