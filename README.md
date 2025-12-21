@@ -1,15 +1,18 @@
 <h1>Hi there :call_me_hand: - I'm Brett Morriss :wave:</h1>
 :link: <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/">LinkedIn</a>
 
+- <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 ## Welcome to my GitHub home
 
 - :hammer: I love building, and sharing how to create, great things
 - :muscle: I have decades of experience working across evolving stacks, going back to the OSI model layers
 - :telescope: I'm Currently focused on AI LLMs, Next.js v16, and React v19.2.x
+- [![Linkedin Badge](https://google.com)
 
 ## Skills & Tools
 
-- **Frontend:** React, Next.js, TailwindCSS
+- **Frontend:** React, Next.js
 - **Backend:** Node, Express, SQL
 - **AI:** LLMs, OpenAI APIs, Agents, MCP, Cursor, CoPilot
 - **DevOps:** Docker, CI/CD, AWS, Kubernetes, Terraform
