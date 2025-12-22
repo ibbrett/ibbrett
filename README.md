@@ -1,4 +1,4 @@
-<h1>Hi there :call_me_hand: - I'm Brett Morriss :wave:</h1>
+<h1>Hi there :wave: - I'm Brett Morriss :call_me_hand:</h1>
 <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Welcome to my GitHub home
