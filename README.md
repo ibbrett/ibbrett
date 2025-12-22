@@ -5,8 +5,8 @@
 <a href="mailto:brettmorriss@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brett-morriss-full-stack-engineer/)
-<a href="mailto:brettmorriss@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-ffff00?style=flat&logo=Linkedin&logoColor=white)</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0060B6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brett-morriss-full-stack-engineer/)
+<a href="mailto:brettmorriss@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-009E50?style=flat&logo=Linkedin&logoColor=white)</a>
 
 ## Welcome to my GitHub home
 
