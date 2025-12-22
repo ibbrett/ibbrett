@@ -6,7 +6,6 @@
 - :hammer: I love building, and sharing how to create, great things
 - :muscle: I have decades of experience working across evolving stacks, going back to the OSI model layers
 - :telescope: I'm Currently focused on AI LLMs, Next.js v16, and React v19.2.x
-- [![Linkedin Badge](https://google.com)
 
 ## Skills & Tools
 
