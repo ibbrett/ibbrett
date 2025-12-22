@@ -1,8 +1,12 @@
 <h1>Hi there :wave: - I'm Brett Morriss :call_me_hand:</h1>
+
+<!--
 <a href="https://www.linkedin.com/in/brett-morriss-full-stack-engineer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:brettmorriss@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brett-morriss-full-stack-engineer/)
+<a href="mailto:brettmorriss@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-ffff00?style=flat&logo=Linkedin&logoColor=white)</a>
 
 ## Welcome to my GitHub home
 
